@@ -1,0 +1,370 @@
+@import url(reset.css);
+.wrap{
+    max-width: 1700px;
+    margin: 0px auto;
+}
+
+.block1{
+       height: 140px;
+      max-width: 1625px;
+    background-color: #fff;
+    
+
+}
+.img1:hover{
+    background: url(../img/orqa\ fon\ F.png) left center no-repeat;
+}
+.img1{
+    margin-left:390px;
+     margin-top: 52px;
+    
+}
+.img2{
+    margin-left:-32px;
+     margin-top: 62px;
+   }
+.img3{
+    margin-left:20px;
+    margin-top: 52px;
+}
+.img4{
+    margin-left:-27px;
+     margin-top: 60px;
+   }
+   .img5{
+    margin-left:20px;
+    margin-top: 52px;
+}
+.img6{
+    margin-left:-32px;
+     margin-top: 60px;
+   }
+   .img7{
+       margin-top: 20px;
+       margin-left: 361px;
+   }
+   /* .text1{
+       width: 265px;
+       height: 36px;
+       border-radius: 30px;
+       border:1px solid #ff296c;
+       display:inline-block;
+       margin-left: 329px;
+       margin-top: 52px;
+   } */
+   .img8{
+       margin-left:1582px ;
+       margin-top: -111px;
+   }
+   .img9{
+       margin-left: 1593px;
+       margin-top: -114px;
+   }
+   .block2{
+       height: 81px;
+       width: 1920px;
+       background-color: #ff296c;
+       display: flex;
+   }
+   .text2{
+
+       margin-left: 422px;
+       margin-top: 20px;
+       font-size: 30px;
+       font-weight: bold;
+       color: #fff;
+   }
+  .text3{
+      margin-left: 109px;
+      margin-top: 20px;
+      font-size: 30px;
+      font-weight: bold;
+      color: #fff;
+  }
+  .text4{
+    margin-left: 109px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.text5{
+    margin-left: 109px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.text6{
+    margin-left: 109px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.text7{
+    margin-left: 109px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.rang{
+    margin-top: -20px;
+}
+
+
+.matn1{
+    color: #fff;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: -200px;
+    margin-left: 845px;
+}.matn2{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 785px;
+    margin-top: 40px;
+    
+}
+.rasm2{
+    margin-top:-17px;
+    margin-left: 900px;
+}
+.matn3{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 965px;
+    margin-top: -32px;
+    
+}
+.rasm3{
+    margin-top: 180px;
+    margin-left: 440px;
+}
+.rasm4{
+    margin-top: 285px;
+    margin-left: -285px;
+}
+.matn4{
+    margin-top:-560px ;
+    margin-left: 600px;
+    color: #1c3161;
+    font-size: 48pt;
+    font-weight: bold;
+
+}
+.rasm5{
+    margin-top:-100px;
+    margin-left: 525px;
+}
+.matn5{
+    width: 35%;
+    margin-top:10px ;
+    margin-left: 604px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #686868;
+}
+.rasm6{
+    margin-top: 100px;
+    margin-left: 1190px;
+}
+.matn6{
+    width: 30%;
+    margin-top: -300px;
+    margin-left: 610px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #686868;
+}
+.rasm7{
+    margin-top: 200px;
+    margin-left:1px ;
+}
+.matn7{
+    width: 40%;
+    margin-top: -300px;
+    margin-left: 850px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #686868;
+}
+.rasm8{
+    margin-top: 350px;
+    margin-left: 50px;
+}
+.matn8{
+    margin-top:400px;
+    height: 350px;
+    width: 1000px;
+    background-color: #ff296c;
+}
+.matn9{
+    width: 930px;
+    height: 350px;
+    background-color: #1c3161;
+    margin-top: -350px;
+    margin-left: 1000px;
+   
+}
+.rasm9{
+    margin-top:-85px;
+    margin-left:240px;
+}
+.soz1{
+    color: #fff;
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 92px;
+    margin-left: -80px;
+}
+.soz2{
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: 20px;
+    color:#767676 ;
+    height: 45px;
+    width: 270px;
+    margin-top: 50px;
+    margin-left: -80px;
+
+}
+.soz3{
+font-size: 20px;
+margin-top:50px ;
+margin-left:10px ;
+color:#767676 ;
+height: 45px;
+width: 270px;
+margin-top: 50px;
+}
+.soz4{
+    color: #fff;
+   padding-top: 20px;
+   padding-left:30px ;
+    width: 176px;
+    height: 50px;
+    background-color: #ff296c;
+    margin-left: 490px;
+    margin-top: -50px;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.block8{
+   width: 1920px;
+   height: 385px; 
+   background-color: #fff;
+
+}
+
+.i1{
+   
+    margin-top: 185px;
+    margin-left: 405px;
+}
+.i2{
+    margin-top: 173px;
+    margin-left: 73px;
+}
+.i3{
+    margin-top: 160px;
+    margin-left: 112px;
+}
+.i4{
+    margin-top: 177px;
+    margin-left: 113px;
+}
+.i5{
+    margin-top: 160px;
+    margin-left: 125px;
+}
+.i6{
+    margin-top: 171px;
+    margin-left: -70px;
+}
+.i7{
+    margin-top: 185px;
+    margin-left: 74px;
+}
+.i8{
+    margin-top: 171px;
+    margin-left: -30px;
+}
+.en{   
+    color: #a7a7a7;
+    width: 265px;
+    height: 36px;
+    border: #ff296c 2px solid;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.block9{
+    display: flex;
+    width: 1920px;
+    height: 330px;
+    background-color: #1c3161;
+}
+.block10{
+     display: flex;
+    border: 1px #495a81 solid;
+    width: 1920px;
+    height: 70px;
+    background-color: #1c3161;
+}
+.m1{
+    width: 10%;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top:100px ;
+    padding-left:388px;
+    margin-bottom: 25px;
+}
+.m2{
+    width: 10%;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top:100px;
+    padding-left:488px;
+    margin-bottom: 25px;
+}
+.r1{
+    margin-left:670px ;
+margin-top: 100px;
+}
+.r2{
+    margin-left:675px ;
+margin-top: -25px;
+}
+.r3{
+    margin-left: 20px;
+    margin-top: -35px;
+}
+.r4{
+    margin-left: -25px;
+    margin-top: -25px;
+}
+.r5{
+    margin-left:20px;
+    margin-top: -35px;
+}
+.r6{
+    margin-left: -31px;
+    margin-top: -27px;
+}
+.t1{
+    color: #8692ad;
+    font-style: 8px;
+    margin-top: 28px;
+    margin-left: 390px;
+}
+.t2{
+    color: #8692ad;
+    font-style: 8px;
+    margin-top: 28px;
+    margin-left: 557px;
+}
